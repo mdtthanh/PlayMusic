@@ -56,49 +56,49 @@ const app = {
             name: 'Anh nhớ ra',
             singer: 'Vũ. (Feat. Trang)',
             image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/avatars/b/a/d/2/bad27197c6774fc04c039c040ed8813c.jpg',
-            path: './music/ANH NHỚ RA - Vũ. (Feat. Trang) - Official Audio.mp3'
+            path: './assets/music/ANH NHỚ RA - Vũ. (Feat. Trang) - Official Audio.mp3'
 
         },
         {
             name: 'See you again',
             singer: 'Charlie Puth',
             image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/avatars/6/4/7/6/6476d6a464846118eb392e307ba451df.jpg',
-            path: './music/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3'
+            path: './assets/music/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3'
 
         },
         {
             name: 'Waiting for you',
             singer: 'Mono',
             image: 'https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/e/7/7/2/e772358978fef8a02eefd34f6a4ca6f3.jpg',
-            path: './music/MONO - Waiting For You (Album 22 - Track No.10).mp3'
+            path: './assets/music/MONO - Waiting For You (Album 22 - Track No.10).mp3'
 
         },
         {
             name: 'Quá lâu',
             singer: 'Vinh Khuất',
-            image: 'assets/image/qualau.jpg',
-            path: './music/Quá Lâu - Vinh Khuat.mp3'
+            image: './assets/image/qualau.jpg',
+            path: './assets/music/Quá Lâu - Vinh Khuat.mp3'
 
         },
         {
             name: 'Đông kiếm em',
             singer: 'Vũ',
             image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/avatars/b/a/d/2/bad27197c6774fc04c039c040ed8813c.jpg',
-            path: './music/ĐÔNG KIẾM EM - Vũ. (Original).mp3'
+            path: './assets/music/ĐÔNG KIẾM EM - Vũ. (Original).mp3'
 
         },
         {
             name: 'Anh yêu em cực',
             singer: 'Linh Thộn ft. Minh Vũ',
-            image: 'assets/image/anhyeuemcuc.png',
-            path: './music/ANH YÊU EM CỰC - LINH THỘN ft. MINH VŨ.mp3'
+            image: './assets/image/anhyeuemcuc.png',
+            path: './assets/music/ANH YÊU EM CỰC - LINH THỘN ft. MINH VŨ.mp3'
 
         },
         {
             name: 'Đi về nhà',
             singer: 'Đen x JustaTee',
-            image: 'assets/image/divenha.jfif',
-            path: './music/Đen x JustaTee - Đi Về Nhà (M-V).mp3'
+            image: './assets/image/divenha.jfif',
+            path: './assets/music/Đen x JustaTee - Đi Về Nhà (M-V).mp3'
 
         },
     ],
